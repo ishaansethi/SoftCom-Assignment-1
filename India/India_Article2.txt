@@ -1,0 +1,38 @@
+Title
+Cow dung chip: Scientists point to wrong testing, warn against 'pseudoscience'
+
+Link
+https://timesofindia.indiatimes.com/india/cow-dung-chip-scientists-point-to-wrong-testing-warn-against-pseudoscience/articleshow/80450107.cms
+
+Date & Time
+Jan 25, 2021, 17:28  IST
+
+Text
+BENGALURU: The RashtriyaKamdhenuAayog's (RKA) claim that a chip made from Indian cow dung can stop harmful mobile phone radiation is "unscientific", the Breakthrough Science Society has (BSS) reiterated.
+
+The collective of scientists and researchers has also derived an entire experiment to show that the said chip was flawed.
+
+In October 2020, chairperson of the RKA, or the national commission on cows, made claims that the chip’s ability to prevent harmful radiation was scientifically proven.
+
+Following this, more than 600 scientists signed an open letter protesting what they termed was a propagation of pseudoscience.
+
+The letter was sent to RKA chairpersonVallabhbhai Kathiriaon October 18, 2020.
+
+The scientists have now received a response from Kathiria, which they term “comical.”
+
+A BSS statement said that along with the reply, Kathiria also sent a letter from the HoD of the physics department ofSaurashtra University, Prof Mihir Joshi, certifying the so-called scientific analysis ofcow dung chip.
+
+As per the test report from Joshi, the experiment was conducted using a Geiger Muller (GM) counter, wherein a radioactive source emitted radiation that was recorded. Thereafter, the cow dung chips of different shapes prepared under Kathiria’s guidance were placed between the radioactive source and the counter. The report claims that there was a reduction in radiation measured.
+
+“It isn’t surprising that politically motivated RKA is pushing pseudoscience, but it’s sad that Physics teachers from a state university are willing to indulge them. Either they are themselves ignorant about flaws in their study or are willingly peddling false narrative. We strongly resent the use of a section of the academic community to peddle pseudoscience,” the BSS statement said.
+
+The BSS also attached their analysis of the said experiment and said it “violates all norms of a scientific procedure and the said experiment is a classic example of what happens if you decide the conclusions first and start designing a ‘study’ to reach that predetermined conclusion.”
+
+Pointing to what they termed were obvious loopholes in the study, BSS said the researchers have used cow dung as substance “X” but there is no other substance to compare (what researchers call as control).
+
+“What would happen if we make partitions of the same size and shape but use donkey dung/camel dung instead of cow dung? What would happen if we use wet soil instead? What happens if we use wood or plastic? Without these comparisons, the data only points to the fact that introducing some solid partition in the path reduces the count, which is hardly a surprise,” BSS said.
+
+The experiments with radioactive sources are statistical by nature, the BSS said, adding that taking multiple readings with identical setup will result in the counts being within similar range but need not be identical.
+
+“Standard deviations of these observations will depend on the exact setup of the experiment. Thus, any experiment with radioactive source and GM counter is never done with a single reading of each setup. We always take multiple readings — at least three but more preferred — and take average. Given this, the reported variation in the counts for different partitions may or may not be statistically meaningful. We already see one hint towards this in the reported data. All counts are in the range of (343 p/m 28) per 100 seconds, but there is no meaningful pattern amongst them as you vary thickness,” it added. It also pointed out at least two other major loopholes.
+

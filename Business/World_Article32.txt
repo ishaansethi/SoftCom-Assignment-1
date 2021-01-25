@@ -1,0 +1,32 @@
+Title
+Tesla claims engineer stole secrets just days into the job
+
+Link
+https://timesofindia.indiatimes.com/business/international-business/tesla-claims-engineer-stole-secrets-just-days-into-the-job/articleshow/80417371.cms
+
+Date & Time
+Jan 23, 2021, 09:25  IST
+
+Text
+A formerTesla Inc.software engineer was ordered to appear before a judge to face allegations that three days into his job, he started stealing confidential files and transferring them to apersonal storage account.
+
+During his two-week employment ending Jan. 6, Alex Khatilov stole more than 6,000 scripts, or files of code, that automate a broad range of business functions,Teslaargues in its trade-secret theft complaint.
+
+Tesla convinced U.S. District Judge Yvonne Gonzalez Rogers that the threat posed is serious enough that she granted a restraining order Friday requiring Khatilov to immediately preserve and return all files, records and emails to the company and appear before her, remotely, on Feb. 4.
+
+Elon Musk’s electric-car maker has aggressively pursued lawsuits against other former employees and rivalcompaniesthat it has accused of poaching engineers and stealingproprietary data.
+
+A software automation engineer, Khatilov was hired as one of a “select few Tesla employees” to have access to the files, which the company says were unrelated to his job. Tesla says it had to sue because Khatilov lied about his theft and tried to delete evidence of it.
+
+Khatilov said he was surprised and shocked by Tesla’s lawsuit. He said in an interview that after he was hired on Dec. 28, Tesla sent him a file containing information for new hires. He said he transferred it to his personalDropboxcloud account to use later on his personal computer.
+
+“Nobody told me using Dropbox is prohibited,” Khatilov said. “I don’t know why they claim it’s sensitive information, I didn’t have access to any sensitive information.” Companies wanting to maintain protection over files normally block their improper installation, he added.
+
+Days later, Khatilov said he showed Tesla the information in his Dropbox when security asked, and deleted the data at the company’s request. A few hours later Tesla called to tell him he was fired.
+
+According to Tesla, after investigators found thousands of confidential files in Khatilov’s personal storage, the engineer said he forgot about them and tried to destroy the data at the start of the interview. Tesla says it doesn’t know if he previously copied or sent the files to other locations. Khatilov said in the interview that he didn’t send them to anyone or anywhere.
+
+“The scripts are extremely valuable to Tesla, and they would be to a competitor,” the company claimed in the lawsuit. “Access to these scripts would enable engineers at other companies to reverse engineer Tesla’s processes to create a similar system in a fraction of the time and with a fraction of the expense.”
+
+The New York Post reported on the case earlier.
+

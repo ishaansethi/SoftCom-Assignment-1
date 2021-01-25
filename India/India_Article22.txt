@@ -1,0 +1,32 @@
+Title
+EC to soon begin mock trials for remote voting: CEC
+
+Link
+https://timesofindia.indiatimes.com/india/ec-to-soon-begin-mock-trials-for-remote-voting-cec/articleshow/80444904.cms
+
+Date & Time
+Jan 25, 2021, 12:05  IST
+
+Text
+NEW DELHI: Mock trails forremote voting facilityfor electors would begin soon, Chief Election CommissionerSunil Arorahas said.
+
+In his message to mark the 11th National Voters' Day, he said a research project on remote voting using cutting-edge technology has already begun.
+
+"There has been a good progress in this regard and mock trials will begin soon," Arora said on Sunday, adding the poll panel's proposal to extend postal ballot facility for overseas Indian voters is under active consideration of theLaw Ministry.
+
+TheElection Commissionhas collaborated with IIT-Madras to work on a new technology which will allow electors to vote from faraway cities without going to designated polling station of their constituencies.
+
+Explaining the 'blockchain' technology involved in the project, former Senior Deputy Election CommissionerSandeep Saxenahad earlier said the concept is a "two-way electronic voting system in a controlled environment on white-listed IP devices on dedicated Internet lines enabled with biometric devices and a web camera".
+
+Saxena, however, made it clear that voters will have to reach a designated venue during a pre-decided period of time to be able to use this facility.
+
+"It does not mean voting from home. After a voter's identity is established by the system, a blockchain-enabled personalised e-ballot paper will be generated.
+
+"When the vote is cast, the ballot will be securely encrypted and a blockchain hashtag generated. This hashtag notification will be sent to various stakeholders, in this case the candidates and political parties," the official said.
+
+The encrypted remote votes so cast will once again be validated at the pre-counting stage to ensure that they have neither been decrypted nor tampered with or replaced.
+
+"Suppose there is a Lok Sabha election and a Chennai voter is in Delhi. Instead of returning to vote in his or her constituency or missing out on voting, the voter can reach a pre-designated spot set up by the EC, say in Connaught Place, in a particular time window and can cast his vote," Saxena had said.
+
+He said such voters may have to apply in advance to their returning officers to exercise the option.
+

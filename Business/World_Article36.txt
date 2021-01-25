@@ -1,0 +1,38 @@
+Title
+Alphabet shutting down Loon, which used balloon alternative to cell towers
+
+Link
+https://timesofindia.indiatimes.com/business/international-business/alphabet-shutting-down-loon-which-used-balloon-alternative-to-cell-towers/articleshow/80399424.cms
+
+Date & Time
+Jan 22, 2021, 10:29  IST
+
+Text
+OAKLAND:GoogleparentAlphabet Incis shutting down its internet balloon business,Loon, which aimed to provide a less expensive alternative to cell towers, saying on Thursday that "the road to commercial viability has proven much longer and riskier than hoped."
+
+Founded in 2011, Loon aimed to bring connectivity to areas of the world where building cell towers is too expensive or treacherous by usingballoonsthe length of tennis courts to float solar-powered networking gear high above the Earth. But the wireless carriers that Loon saw as buyers of its technology have questioned its technical and political viability.
+
+"While we’ve found a number of willing partners along the way, we haven’t found a way to get the costs low enough to build a long-term, sustainable business," Loon chief executive Alastair Westgarth said in a blog post.
+
+Alphabet executive Astro Teller said in a separate blog post that despite Loon's "groundbreaking technical achievements" over the past nine years, "the road to commercial viability has proven much longer and riskier than hoped."
+
+Westgarth said Loon's legacy would include advancing helium balloons to last hundreds of days in the sky and developing communications equipment that could deliver cell coverage across an area 200 times bigger than an average tower can.
+
+But among challenges were that a carrier would need several balloons at once, and each balloon cost tens of thousands of dollars and lasted only about five months.
+
+Loon launched a pilot project in Kenya in 2020, years behind schedule after regulatory delays. Its partner, Telkom Kenya, did not immediately respond to a request for comment.
+
+The technology previously proved successful in short projects to provide cell coverage in Peru and Puerto Rico when cell towers were downed by natural disasters. The company had pitched countries and international organizations on contracting with Loon to fly in during future emergencies, but gained little traction.
+
+Loon said it may share its technology with carriers, governments or nonprofit groups aiming to bring high-speed internet to the last few places in the world.
+
+The company employed 200 people as of 2019. It drew a $125 million investment that year from SoftBank’s HAPSMobile, which is working on floating cell equipment with drones.
+
+HAPSMobile declined to comment on the financial effect of Loon's shutdown but said it would "continue to work toward our goal of developing a commercial business."
+
+Separately, companies backed by billionaire entrepreneurs, such as Elon Musk, Richard Branson and Jeff Bezos, continue to look at offering internet connections using satellites in near-Earth orbit.
+
+Alphabet previously shuttered what it calls "other bets," or entities separate to Google, such as one working on power-generating kites.Alphabethas pressed some "bets" to raise funding from other investors or become self-sustaining. Loon struggled to attract investment.
+
+The company maintains at least one "bet" tackling the skies - Wing, which is aiming to commercialize goods delivery by drone.
+
